@@ -7,7 +7,7 @@ import requests
 import random
 import time
 # 14 60
-token = "MTE0Mjg3OTc4MTYwMDM3NDgwNA.G5fFIy.gAChjr8imj86ki6_aHUBZRQzcj1MujaCIAYGsA"
+token = ""
 mesage = '''
 discord.gg/fnNHWCMnuH
 Retired by Asmicum'''
