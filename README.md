@@ -1,5 +1,5 @@
 # Token Furnacer
-
+Work in progress.
 Destroys the token that is entered.
 
 # Do not skid
