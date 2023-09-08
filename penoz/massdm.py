@@ -1,5 +1,5 @@
+import requests
 from penoz.pack import headers
-
 
 def massdm(headers):
     cheneel = requests.get("https://discord.com/api/v9/users/@me/channels",headers=headers).json()
