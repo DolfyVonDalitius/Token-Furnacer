@@ -1,2 +1,2 @@
-# Coded by Пенозус
-SKID AND FUK YOU SUKA BLYAD NAXUY
+# Token Fucker
+Hi, shits no longer gon be worked on cause got bored of it
